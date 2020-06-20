@@ -1,2 +1,8 @@
-# python_projects
-Initial repository for Python projects I'm working on to learn and explore Python/Data Science.
+# Weight loss progress
+Daily log stored in Google sheets. Loaded into Google colab to be cleaned with pandas and visualised with matplotlib. 
+
+Most recent output below:
+
+![](/Weight_tracker/Weight_loss_annotated.png)
+
+![](/Weight_tracker/Interpolation_Methods.png)
